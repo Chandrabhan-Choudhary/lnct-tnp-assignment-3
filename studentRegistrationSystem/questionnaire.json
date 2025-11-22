@@ -1,0 +1,248 @@
+{
+  "DSA": [
+    {
+      "Question": "Which data structure is ideal for implementing a 'undo' feature?",
+      "Answer": "Option_2",
+      "Option_1": "Queue",
+      "Option_2": "Stack",
+      "Option_3": "Linked List",
+      "Option_4": "Heap"
+    },
+    {
+      "Question": "What is the worst-case time complexity of inserting an element into a hash table (using chaining)?",
+      "Answer": "Option_3",
+      "Option_1": "O(1)",
+      "Option_2": "O(log n)",
+      "Option_3": "O(n)",
+      "Option_4": "O(n log n)"
+    },
+    {
+      "Question": "Which of the following is an example of an in-place sorting algorithm?",
+      "Answer": "Option_1",
+      "Option_1": "Bubble Sort",
+      "Option_2": "Merge Sort",
+      "Option_3": "Counting Sort",
+      "Option_4": "Radix Sort"
+    },
+    {
+      "Question": "A binary tree node can have at most how many children?",
+      "Answer": "Option_3",
+      "Option_1": "0",
+      "Option_2": "1",
+      "Option_3": "2",
+      "Option_4": "Unlimited"
+    },
+    {
+      "Question": "What does DFS stand for in graph traversal?",
+      "Answer": "Option_4",
+      "Option_1": "Dynamic-First Search",
+      "Option_2": "Distance-First Search",
+      "Option_3": "Double-First Search",
+      "Option_4": "Depth-First Search"
+    },
+    {
+      "Question": "Which algorithm is used to find the Minimum Spanning Tree (MST) of a graph?",
+      "Answer": "Option_1",
+      "Option_1": "Prim's Algorithm",
+      "Option_2": "Dijkstra's Algorithm",
+      "Option_3": "Bellman-Ford Algorithm",
+      "Option_4": "BFS"
+    },
+    {
+      "Question": "In a complete binary tree, all levels are filled except possibly the last, which is filled from...",
+      "Answer": "Option_2",
+      "Option_1": "Right to left",
+      "Option_2": "Left to right",
+      "Option_3": "The middle",
+      "Option_4": "The root"
+    },
+    {
+      "Question": "What is the time complexity of searching for a value in a max-heap?",
+      "Answer": "Option_4",
+      "Option_1": "O(1)",
+      "Option_2": "O(log n)",
+      "Option_3": "O(n log n)",
+      "Option_4": "O(n)"
+    },
+    {
+      "Question": "Which of these is a 'greedy' algorithm?",
+      "Answer": "Option_3",
+      "Option_1": "Merge Sort",
+      "Option_2": "DFS",
+      "Option_3": "Dijkstra's Algorithm",
+      "Option_4": "Dynamic Programming"
+    },
+    {
+      "Question": "A linked list node contains data and a...",
+      "Answer": "Option_1",
+      "Option_1": "Pointer to the next node",
+      "Option_2": "Pointer to the head node",
+      "Option_3": "Pointer to the tail node",
+      "Option_4": "Pointer to the array index"
+    }
+  ],
+  "DBMS": [
+    {
+      "Question": "Which SQL keyword is used to sort the result-set?",
+      "Answer": "Option_2",
+      "Option_1": "SORT BY",
+      "Option_2": "ORDER BY",
+      "Option_3": "ARRANGE BY",
+      "Option_4": "GROUP BY"
+    },
+    {
+      "Question": "What is the default port for a standard MySQL server?",
+      "Answer": "Option_3",
+      "Option_1": "8080",
+      "Option_2": "5432",
+      "Option_3": "3306",
+      "Option_4": "1433"
+    },
+    {
+      "Question": "Which command is part of Transaction Control Language (TCL)?",
+      "Answer": "Option_1",
+      "Option_1": "COMMIT",
+      "Option_2": "SELECT",
+      "Option_3": "GRANT",
+      "Option_4": "CREATE"
+    },
+    {
+      "Question": "Which SQL function returns the largest value in a set?",
+      "Answer": "Option_4",
+      "Option_1": "LARGE()",
+      "Option_2": "UPPER()",
+      "Option_3": "TOP()",
+      "Option_4": "MAX()"
+    },
+    {
+      "Question": "What does '1NF' (First Normal Form) state?",
+      "Answer": "Option_2",
+      "Option_1": "No transitive dependencies",
+      "Option_2": "All columns must contain atomic (indivisible) values",
+      "Option_3": "No partial dependencies",
+      "Option_4": "All keys must be composite"
+    },
+    {
+      "Question": "Which command permanently deletes a table and all its data from the database?",
+      "Answer": "Option_3",
+      "Option_1": "DELETE TABLE",
+      "Option_2": "TRUNCATE TABLE",
+      "Option_3": "DROP TABLE",
+      "Option_4": "REMOVE TABLE"
+    },
+    {
+      "Question": "A 'candidate key' that is not selected to be the primary key is called an...",
+      "Answer": "Option_1",
+      "Option_1": "Alternate key",
+      "Option_2": "Foreign key",
+      "Option_3": "Super key",
+      "Option_4": "Secondary key"
+    },
+    {
+      "Question": "Which SQL clause is used in conjunction with aggregate functions to group rows?",
+      "Answer": "Option_4",
+      "Option_1": "WHERE",
+      "Option_2": "ORDER BY",
+      "Option_3": "WITH",
+      "Option_4": "GROUP BY"
+    },
+    {
+      "Question": "Which type of integrity constraint ensures that a foreign key value must match an existing primary key value?",
+      "Answer": "Option_2",
+      "Option_1": "Domain Integrity",
+      "Option_2": "Referential Integrity",
+      "Option_3": "Entity Integrity",
+      "Option_4": "Key Integrity"
+    },
+    {
+      "Question": "Which SQL statement is used to modify existing data in a table?",
+      "Answer": "Option_3",
+      "Option_1": "MODIFY",
+      "Option_2": "CHANGE",
+      "Option_3": "UPDATE",
+      "Option_4": "ALTER"
+    }
+  ],
+  "Python": [
+    {
+      "Question": "What is the output of print(3 // 2)?",
+      "Answer": "Option_1",
+      "Option_1": "1",
+      "Option_2": "1.5",
+      "Option_3": "2",
+      "Option_4": "Error"
+    },
+    {
+      "Question": "How do you define an empty set in Python?",
+      "Answer": "Option_4",
+      "Option_1": "{}",
+      "Option_2": "[]",
+      "Option_3": "()",
+      "Option_4": "set()"
+    },
+    {
+      "Question": "Which keyword is used to bring a module into your current script?",
+      "Answer": "Option_3",
+      "Option_1": "include",
+      "Option_2": "use",
+      "Option_3": "import",
+      "Option_4": "load"
+    },
+    {
+      "Question": "What method would you use to find the number of items in a list 'my_list'?",
+      "Answer": "Option_2",
+      "Option_1": "my_list.count()",
+      "Option_2": "len(my_list)",
+      "Option_3": "my_list.size()",
+      "Option_4": "size(my_list)"
+    },
+    {
+      "Question": "What is the special method name for a class constructor in Python?",
+      "Answer": "Option_1",
+      "Option_1": "__init__()",
+      "Option_2": "__main__()",
+      "Option_3": "__construct__()",
+      "Option_4": "__class__()"
+    },
+    {
+      "Question": "What does the 'pass' statement do in Python?",
+      "Answer": "Option_4",
+      "Option_1": "Skips the current iteration of a loop",
+      "Option_2": "Exits the program",
+      "Option_3": "Raises an exception",
+      "Option_4": "Acts as a placeholder; does nothing"
+    },
+    {
+      "Question": "Which of the following is used to create a multi-line string?",
+      "Answer": "Option_3",
+      "Option_1": "'Hello'",
+      "Option_2": "// Hello //",
+      "Option_3": "\"\"\"Hello\"\"\"",
+      "Option_4": "# Hello"
+    },
+    {
+      "Question": "What is the output of print('abc'.upper())?",
+      "Answer": "Option_2",
+      "Option_1": "'abc'",
+      "Option_2": "'ABC'",
+      "Option_3": "Abc",
+      "Option_4": "Error"
+    },
+    {
+      "Question": "What is a 'lambda' function in Python?",
+      "Answer": "Option_1",
+      "Option_1": "A small anonymous function",
+      "Option_2": "A function to sort lists",
+      "Option_3": "A recursive function",
+      "Option_4": "A built-in math function"
+    },
+    {
+      "Question": "Which data type is ordered, mutable, and allows duplicate members?",
+      "Answer": "Option_3",
+      "Option_1": "Tuple",
+      "Option_2": "Set",
+      "Option_3": "List",
+      "Option_4": "Dictionary"
+    }
+  ]
+}
